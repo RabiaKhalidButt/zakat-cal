@@ -1,0 +1,13 @@
+@media only screen and (max-width:600px)  {
+
+    *{
+        background-color: darkgray;
+    }
+    
+    .zak{
+     border: 5px solid black;
+     margin:0% 35% 35% 35%;    
+}
+
+
+}
